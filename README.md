@@ -9,7 +9,7 @@
 
 
 
-<img src="[https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white](https://tr.pinterest.com/pin/580823683183625502/?mt=login)" />
+<img src="https://tr.pinterest.com/pin/580823683183625502/">
 
 
 ## Github
