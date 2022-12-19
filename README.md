@@ -9,9 +9,6 @@
 
 
 
-<img src="https://tr.pinterest.com/pin/580823683183625502/">
-
-
 ## Github
  <p><img width="494" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahkalama&amp;theme=swift&amp;hide_border=true&amp;include_all_commits=false&amp;count_private=false&amp;layout=compact" alt=""><br/></p>
 
