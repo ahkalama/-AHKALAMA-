@@ -1,11 +1,11 @@
 # -AHKALAMA-
 ​❤️‍🔥​❤️‍🔥​❤️‍🔥​❤️‍🔥​❤️‍🔥​❤️‍🔥​❤️‍🔥​❤️‍🔥​❤️‍🔥​❤️‍🔥​❤️‍🔥​❤️‍🔥
 
-| <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />                 | `https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white`                 |
+| <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />                 | `https://www.youtube.com/c/AMERTK`                 |
 
 ​❤️‍🔥​❤️‍🔥​❤️‍🔥​❤️‍🔥​❤️‍🔥​❤️‍🔥​❤️‍🔥​❤️‍🔥​❤️‍🔥​❤️‍🔥​❤️‍🔥​❤️‍🔥
 
-[![ahkalama's 42 stats](https://badge42.vercel.app/api/v2/cl0yx1v0j0158ns5shlllmdvb/stats?cursusId=9&coalitionId=piscine)](https://github.com/ahkalama/badge42)
+| <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />                 | `https://www.instagram.com/ahmetmertk0/`                 |
   
   ## Github
  <p><img width="494" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahkalama&amp;theme=swift&amp;hide_border=true&amp;include_all_commits=false&amp;count_private=false&amp;layout=compact" alt=""><br/></p>
