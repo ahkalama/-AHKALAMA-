@@ -1,4 +1,4 @@
-# <a href="https://github.com/ahkalama"><img src="https://readme-typing-svg.herokuapp.com?font=Anton&pause=1000&color=00CC00&width=435&lines=Ahmet+Mert+Kalaman+Github+Hosgeldin;42+Kocaeli+Ogrencisi" alt="Typing SVG" /></a>
+# <a href="https://github.com/ahkalama"><img src="https://readme-typing-svg.herokuapp.com?font=Teko&pause=1000&color=00CC00&width=435&lines=Ahmet+Mert+Kalaman+Github+Hosgeldin;42+Kocaeli+Ogrencisi" alt="Typing SVG" /></a>
 
 
 
