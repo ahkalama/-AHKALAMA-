@@ -2,7 +2,7 @@
 
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 30px></picture> **ahkalama**
-# <a href="https://github.com/ahkalama"><img src="https://readme-typing-svg.herokuapp.com?font=Teko&size=40&color=9F0000C0&width=435&lines=Ahmet+Mert+Kalaman+Github+Hosgeldin;42+Kocaeli+Ogrencisi" alt="Typing SVG" /></a>
+# <a href="https://github.com/ahkalama"><img src="https://readme-typing-svg.herokuapp.com?font=Teko&size=40&color=9F0000C0&width=435&lines=Ahmet+Mert+Kalaman+Github+Hosgeldin;42+Kocaeli+Ogrencisi" alt="Typing SVG" /></a> <h4 align="left">Visitor's count 👀</h4> <p align="left"><img src="https://profile-counter.glitch.me/{samiguntepe}/count.svg" alt="samiguntepe :: Visitor's Count" /></p> <br/>
 
 
 ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">  **Socials:** 
