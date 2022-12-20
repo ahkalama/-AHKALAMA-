@@ -6,10 +6,11 @@
 
 
 ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">  **Socials:** 
-| <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />                 | `https://www.youtube.com/c/AMERTK`                 |
+| <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />                 | `https://www.youtube.com/c/AMERTK`                 | ![brainlet-1mb-block-head-thumbnail](https://user-images.githubusercontent.com/116187665/208735733-c4c64e68-de9b-4454-b906-b6325400d29e.jpg)
 
 ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">  **Socials:**
-| <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />                 | `https://www.instagram.com/ahmetmertk0/`                 |
+| <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />                 | `https://www.instagram.com/ahmetmertk0/`                 | ![brainlet-1mb-block-head-thumbnail](https://user-images.githubusercontent.com/116187665/208735733-c4c64e68-de9b-4454-b906-b6325400d29e.jpg)
+
 
 
 
