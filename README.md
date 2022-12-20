@@ -14,6 +14,9 @@
 
 
 ## Github
+<h4 align="left">Visitor's count 👀</h4>
+<p align="left"><img src="https://profile-counter.glitch.me/{samiguntepe}/count.svg" alt="samiguntepe :: Visitor's Count" /></p>
+<br/>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"><b> **Github Stats** </b>
 
