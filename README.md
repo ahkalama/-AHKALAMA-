@@ -13,7 +13,7 @@
  ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">  **Socials:**
 | <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />                 | `https://www.instagram.com/ahmetmertk0/`                 |
 
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 30px></picture> ## 42 İNTRA 
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 30px></picture> 42 intra 
 
 [![ahkalama's 42 stats](https://badge42.vercel.app/api/v2/clbupqk0x00060fjzhvu7umbx/stats?cursusId=21&coalitionId=234)](https://github.com/JaeSeoKim/badge42)
 
