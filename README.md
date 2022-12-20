@@ -5,8 +5,6 @@
 # <a href="https://github.com/ahkalama"><img src="https://readme-typing-svg.herokuapp.com?font=Teko&size=40&color=9F0000C0&width=435&lines=Ahmet+Mert+Kalaman+Github+Hosgeldin;42+Kocaeli+Ogrencisi" alt="Typing SVG" /></a>
 
 
-
-# -AHKALAMA-
 ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">  **Socials:** 
 | <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />                 | `https://www.youtube.com/c/AMERTK`                 |
 
@@ -20,7 +18,7 @@
 <p align="left"><img src="https://profile-counter.glitch.me/{samiguntepe}/count.svg" alt="samiguntepe :: Visitor's Count" /></p>
 <br/>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"><b> **Github Stats** </b>
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"><b> **Github Durumum** </b>
 
  <p><img width="494" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahkalama&amp;theme=swift&amp;hide_border=true&amp;include_all_commits=false&amp;count_private=false&amp;layout=compact" alt=""><br/></p>
 
