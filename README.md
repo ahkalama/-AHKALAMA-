@@ -1,4 +1,4 @@
-# <a href="https://github.com/ahkalama"><img src="https://readme-typing-svg.herokuapp.com?font=Matrix&pause=1000&color=00CC00&width=435&lines=Welcome+to+Ahmet+Mert+Kalaman's+Github;Ecole+42+Student" alt="Typing SVG" /></a>
+# <a href="https://github.com/ahkalama"><img src="https://readme-typing-svg.herokuapp.com?font=Matrix&pause=1000&color=00CC00&width=435&lines=Ahmet+Mert+Kalaman+Github'ına+Hosgeldin;Ecole+42+Ogrenci" alt="Typing SVG" /></a>
 
 
 
