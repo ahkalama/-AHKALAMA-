@@ -17,10 +17,13 @@
 
 [![ahkalama's 42 stats](https://badge42.vercel.app/api/v2/clbupqk0x00060fjzhvu7umbx/stats?cursusId=21&coalitionId=234)](https://github.com/JaeSeoKim/badge42)
 
+## libft
 [![ahkalama's 42 Libft Score](https://badge42.vercel.app/api/v2/clbupqk0x00060fjzhvu7umbx/project/2905599)](https://github.com/JaeSeoKim/badge42)
 
+## ft_printf
 [![ahkalama's 42 ft_printf Score](https://badge42.vercel.app/api/v2/clbupqk0x00060fjzhvu7umbx/project/2918834)](https://github.com/JaeSeoKim/badge42)
 
+## get_next_line
 [![ahkalama's 42 get_next_line Score](https://badge42.vercel.app/api/v2/clbupqk0x00060fjzhvu7umbx/project/2923280)](https://github.com/JaeSeoKim/badge42)
 
 
