@@ -4,6 +4,8 @@
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 30px></picture> **ahkalama**
 # <a href="https://github.com/ahkalama"><img src="https://readme-typing-svg.herokuapp.com?font=Teko&size=40&color=9F0000C0&width=435&lines=Ahmet+Mert+Kalaman+Github+Hosgeldin;42+Kocaeli+Ogrencisi" alt="Typing SVG" /></a>
 
+# <a href="https://github.com/ahkalama"><img src="https://readme-typing-svg.herokuapp.com?font=Teko&size=40&color=9F0000C0&width=435&lines=CTRL + C+CTRL + V+YAPILAN +KODLARDAN +BEN SORUMLU DEĞİLİM;42+Kocaeli+Ogrencisi" alt="Typing SVG" /></a>
+
 
  ![brainlet-1mb-block-head-thumbnail](https://user-images.githubusercontent.com/116187665/208735733-c4c64e68-de9b-4454-b906-b6325400d29e.jpg)
  ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">  **Socials:** 
