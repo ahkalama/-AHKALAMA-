@@ -1,12 +1,11 @@
 ![amertk](https://user-images.githubusercontent.com/116187665/208735198-985436aa-710e-4c27-b548-d51f60ad829e.jpg)
-
-
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 30px></picture> **ahkalama**
+**ahkalama**
 # <a href="https://github.com/ahkalama"><img src="https://readme-typing-svg.herokuapp.com?font=Teko&size=40&color=9F0000C0&width=435&lines=Ahmet+Mert+Kalaman+Github+Hosgeldin;42+Kocaeli+Ogrencisi" alt="Typing SVG" /></a>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=5400F7&background=23000000&width=435&lines=Bu+Repo'lardan+%C3%A7ekilip%2C)](https://git.io/typing-svg)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=7A02E1&background=23000000&width=435&lines=Direk+Pushlanan+Dosyalardan%2C)](https://git.io/typing-svg)
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=6000&pause=1000&color=E10000&background=23000000&width=435&lines=M%C3%BCessesemiz+Sorumlu+De%C4%9Fildir!)](https://git.io/typing-svg)
 
 
