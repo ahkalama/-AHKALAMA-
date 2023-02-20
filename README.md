@@ -3,7 +3,7 @@
 
 ![208735198-985436aa-710e-4c27-b548-d51f60ad829e](https://user-images.githubusercontent.com/116187665/219319482-5166be8b-0965-40b4-8b12-f2702e42b103.jpeg)
 
-## 🖥️ Aradığın şey bu olabilir mi? 
+## 🖥️ Aradığın şey aşağıda olabilir mi? 
 ****************************
 | :keyboard:  &nbsp; [42EXAMRANK02 - Buraya Tıkla!](https://github.com/ahkalama/42-EXAMRANK02)       | 
 |-----------------------------------------| 
