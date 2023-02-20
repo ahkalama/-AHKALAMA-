@@ -2,9 +2,9 @@
 # <a href="https://github.com/ahkalama"><img src="https://readme-typing-svg.herokuapp.com?font=Teko&size=40&color=9F0000C0&width=435&lines=Ahmet+Mert+Kalaman+Github+Hosgeldin;42+Kocaeli+Ogrencisi" alt="Typing SVG" /></a>
 
 ![208735198-985436aa-710e-4c27-b548-d51f60ad829e](https://user-images.githubusercontent.com/116187665/219319482-5166be8b-0965-40b4-8b12-f2702e42b103.jpeg)
-## What Are You looking for? 
+## Ne Arıyorsun? 
 ****************************
-| :keyboard:  &nbsp; [42 Exams - Click Here](https://github.com/ahkalama/42-EXAMRANK02)       | 
+| :keyboard:  &nbsp; [42EXAMRANK02 - Buraya Tıkla!](https://github.com/ahkalama/42-EXAMRANK02)       | 
 |-----------------------------------------| 
 ****************************
  ![brainlet-1mb-block-head-thumbnail](https://user-images.githubusercontent.com/116187665/208735733-c4c64e68-de9b-4454-b906-b6325400d29e.jpg)
