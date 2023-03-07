@@ -16,7 +16,7 @@
 ****************************
  ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">  **MySkill:**
 
-[![My Skills](https://skillicons.dev/icons?i=swift,kotlin,androidstudio,js,firebase)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=swift,discord,c,ınstagram,androidstudio,js,firebase)](https://skillicons.dev)
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 30px></picture> 42 intra 
 
