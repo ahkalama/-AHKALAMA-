@@ -25,6 +25,3 @@
 [![ahkalama's 42 stats](https://badge42.vercel.app/api/v2/clbupqk0x00060fjzhvu7umbx/stats?cursusId=21&coalitionId=234)](https://github.com/JaeSeoKim/badge42)
 
 ## Github
-<h4 align="left">Visitor's count 👀</h4>
-<p align="left"><img src="https://profile-counter.glitch.me/{ahkalama}/count.svg" alt="ahkalama :: Visitor's Count" /></p>
-<br/>
