@@ -14,27 +14,15 @@
 | :keyboard:  &nbsp; [42-Header-Kurulum - Buraya Tıkla!](https://github.com/ahkalama/42-HEADER)       | 
 |-----------------------------------------| 
 ****************************
- ![brainlet-1mb-block-head-thumbnail](https://user-images.githubusercontent.com/116187665/208735733-c4c64e68-de9b-4454-b906-b6325400d29e.jpg)
  ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">  **Socials:** 
 | <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />                 | `https://www.youtube.com/c/AMERTK`                 |
 
- ![brainlet-1mb-block-head-thumbnail](https://user-images.githubusercontent.com/116187665/208735733-c4c64e68-de9b-4454-b906-b6325400d29e.jpg)
  ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">  **Socials:**
 | <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />                 | `https://www.instagram.com/ahmetmertk0/`                 |
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 30px></picture> 42 intra 
 
 [![ahkalama's 42 stats](https://badge42.vercel.app/api/v2/clbupqk0x00060fjzhvu7umbx/stats?cursusId=21&coalitionId=234)](https://github.com/JaeSeoKim/badge42)
-
-## libft
-[![ahkalama's 42 Libft Score](https://badge42.vercel.app/api/v2/clbupqk0x00060fjzhvu7umbx/project/2905599)](https://github.com/JaeSeoKim/badge42)
-
-## ft_printf
-[![ahkalama's 42 ft_printf Score](https://badge42.vercel.app/api/v2/clbupqk0x00060fjzhvu7umbx/project/2918834)](https://github.com/JaeSeoKim/badge42)
-
-## get_next_line
-[![ahkalama's 42 get_next_line Score](https://badge42.vercel.app/api/v2/clbupqk0x00060fjzhvu7umbx/project/2923280)](https://github.com/JaeSeoKim/badge42)
-
 
 ## Github
 <h4 align="left">Visitor's count 👀</h4>
