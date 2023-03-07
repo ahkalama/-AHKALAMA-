@@ -26,5 +26,5 @@
 
 ## Github
 <h4 align="left">Visitor's count 👀</h4>
-<p align="left"><img src="https://profile-counter.glitch.me/{samiguntepe}/count.svg" alt="samiguntepe :: Visitor's Count" /></p>
+<p align="left"><img src="https://profile-counter.glitch.me/{ahkalama}/count.svg" alt="ahkalama :: Visitor's Count" /></p>
 <br/>
