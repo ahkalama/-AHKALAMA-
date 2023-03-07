@@ -14,8 +14,9 @@
 | :keyboard:  &nbsp; [42-Header-Kurulum - Buraya Tıkla!](https://github.com/ahkalama/42-HEADER)       | 
 |-----------------------------------------| 
 ****************************
- ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">  **Socials:**
-| <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />                 | `https://www.instagram.com/ahmetmertk0/`                 |
+ ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">  **MySkill:**
+
+[![My Skills](https://skillicons.dev/icons?i=swift,kotlin,androidstudio,js,firebase)](https://skillicons.dev)
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 30px></picture> 42 intra 
 
