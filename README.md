@@ -7,6 +7,10 @@
 ****************************
 | :keyboard:  &nbsp; [42EXAMRANK02 - Buraya Tıkla!](https://github.com/ahkalama/42-EXAMRANK02)       | 
 |-----------------------------------------| 
+| :keyboard:  &nbsp; [42-C00-C13-PROJELERİ - Buraya Tıkla!](https://github.com/ahkalama/42-Piscine-C00-C13)       | 
+|-----------------------------------------| 
+| :keyboard:  &nbsp; [42-Header-Kurulum - Buraya Tıkla!](https://github.com/ahkalama/42-HEADER)       | 
+|-----------------------------------------| 
 ****************************
  ![brainlet-1mb-block-head-thumbnail](https://user-images.githubusercontent.com/116187665/208735733-c4c64e68-de9b-4454-b906-b6325400d29e.jpg)
  ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">  **Socials:** 
