@@ -25,3 +25,5 @@
 [![ahkalama's 42 stats](https://badge42.vercel.app/api/v2/clbupqk0x00060fjzhvu7umbx/stats?cursusId=21&coalitionId=234)](https://github.com/JaeSeoKim/badge42)
 
 ## Github
+
+![image](https://github.com/freekmurze/freekmurze/blob/master/dino.gif)
