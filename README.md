@@ -3,9 +3,6 @@
 
 ![Jz6bAs-_1_-_online-video-cutter com_](https://user-images.githubusercontent.com/116187665/223407114-49a865f4-0db8-4ce3-922e-08a25bcde08f.gif)
 
-![giphy](https://user-images.githubusercontent.com/116187665/224542766-d5bc5b8d-c994-48dc-9ca5-65a8c6e73e72.gif)
-
-
 ## 🖥️ Aradığın şey aşağıda olabilir mi? 
 ****************************
 | :keyboard:  &nbsp; [42-EXAMRANK02 - Buraya Tıkla!](https://github.com/ahkalama/42-EXAMRANK02)       | 
