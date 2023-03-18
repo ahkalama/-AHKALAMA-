@@ -5,7 +5,7 @@
 
 ## 🖥️ Aradığın şey aşağıda olabilir mi? 
 ****************************
-| :keyboard:  &nbsp; [42-EXAMRANK02 - Buraya Tıkla!](https://github.com/ahkalama/42-EXAMRANK02)       | 
+| ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 30px></picture>  &nbsp; [42-EXAMRANK02 - Buraya Tıkla!](https://github.com/ahkalama/42-EXAMRANK02)       | 
 |-----------------------------------------| 
 
 | :keyboard:  &nbsp; [42-C00-C13-PROJELERİ - Buraya Tıkla!](https://github.com/ahkalama/42-Piscine-C00-C13)       | 
