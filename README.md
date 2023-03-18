@@ -16,6 +16,6 @@
 ****************************
  ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">  **My Skills:**
 
-[![My Skills](https://skillicons.dev/icons?i=au,ai,discord,c,cpp,instagram,blender,linkedin,twitter,visualstudio,ps,pr,js,php,unreal,unity,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=au,ai,pr,discord,c,cpp,instagram,blender,linkedin,twitter,visualstudio,unreal,unity,js)](https://skillicons.dev)
 
 ![image](https://github.com/freekmurze/freekmurze/blob/master/dino.gif)
