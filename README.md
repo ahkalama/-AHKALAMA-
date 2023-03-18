@@ -18,6 +18,4 @@
 
 [![My Skills](https://skillicons.dev/icons?i=au,ai,discord,c,cpp,instagram,linkedin,twitter,visualstudio,ps,pr,js,php)](https://skillicons.dev)
 
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 30px></picture> 42 intra 
-
 ![image](https://github.com/freekmurze/freekmurze/blob/master/dino.gif)
