@@ -15,4 +15,3 @@
 |-----------------------------------------| 
 ****************************
 
-![full-stack-developer](https://github.com/ahkalama/ahkalama/assets/116187665/58f6c22c-338f-4e01-aa1b-a588b30fd4fa)
