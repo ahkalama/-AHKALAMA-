@@ -14,8 +14,4 @@
 | <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 30px></picture>  &nbsp; [42-Header-Kurulum - Buraya Tıkla!](https://github.com/ahkalama/42-HEADER)       | 
 |-----------------------------------------| 
 ****************************
- ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">  **My Skills:**
-
-[![My Skills](https://skillicons.dev/icons?i=au,ai,pr,discord,c,cpp,instagram,blender,linkedin,twitter,visualstudio,unreal,unity,php,js)](https://skillicons.dev)
-
 ![image](https://github.com/freekmurze/freekmurze/blob/master/dino.gif)
