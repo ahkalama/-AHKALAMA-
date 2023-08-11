@@ -1,7 +1,7 @@
 
 # <a href="https://github.com/ahkalama"><img src="https://readme-typing-svg.herokuapp.com?font=Teko&size=40&color=9F0000C0&width=435&lines=Ahmet+Mert+Kalaman+Github+Hosgeldin;42+Kocaeli+Ogrencisi" alt="Typing SVG" /></a>
 
-![Jz6bAs-_1_-_online-video-cutter com_](https://user-images.githubusercontent.com/116187665/223407114-49a865f4-0db8-4ce3-922e-08a25bcde08f.gif)
+![full-stack-developer](https://github.com/ahkalama/ahkalama/assets/116187665/f483fe09-fbee-4c74-bc97-89ec1bf342f0)
 
 ## 🖥️ Aradığın şey aşağıda olabilir mi? 
 ****************************
