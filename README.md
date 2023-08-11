@@ -14,4 +14,5 @@
 | <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 30px></picture>  &nbsp; [42-Header-Kurulum - Buraya Tıkla!](https://github.com/ahkalama/42-HEADER)       | 
 |-----------------------------------------| 
 ****************************
-![image](https://github.com/freekmurze/freekmurze/blob/master/dino.gif)
+
+![full-stack-developer](https://github.com/ahkalama/ahkalama/assets/116187665/58f6c22c-338f-4e01-aa1b-a588b30fd4fa)
