@@ -2,6 +2,8 @@
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=&fontSize=90)
 
+Herkese merhaba ben ahmet mert kalaman
+
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=footer&text=&fontSize=90)
 
 ## 🖥️ Aradığın şey aşağıda olabilir mi? 
