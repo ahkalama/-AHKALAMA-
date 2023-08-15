@@ -1,6 +1,6 @@
 # <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=21&pause=1000&color=0B273452&center=true&multiline=true&width=435&lines=42+Ecole+ahkalama" alt="Typing SVG" /></a>
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=footer&text=capsule%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=footer&text=%20&fontSize=90)
 
 ## 🖥️ Aradığın şey aşağıda olabilir mi? 
 ****************************
