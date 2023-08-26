@@ -4,7 +4,7 @@
 ---------
 
 # <h3 align="center">Hi There 🐥</h3>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1E307E85&center=true&vCenter=false&width=435&lines=Ahmet+Mert+Kalaman)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1E307E85&center=false&vCenter=false&width=435&lines=Ahmet+Mert+Kalaman)](https://git.io/typing-svg)
 
 # <h3> I am Ahmet Mert Kalaman 42 Ecole software school student. I know C Language and I am trying to make various games on Unity and Unreal Engine. You can see the projects I've done in C language on my Github. I love playing games. I hope one day I can make a great game that everyone is playing. </h3>
 
