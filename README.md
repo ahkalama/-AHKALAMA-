@@ -13,7 +13,6 @@
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=footer&text=&fontSize=90)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1E307E85&center=false&vCenter=false&width=435&lines=Ahmet+Mert+Kalaman)](https://git.io/typing-svg)
-
 ## 🖥️ Could below be what you are looking for?
 ****************************
 | <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 30px></picture>  &nbsp; [42-EXAMRANK02 - Click There!](https://github.com/ahkalama/42-EXAMRANK02)       | 
