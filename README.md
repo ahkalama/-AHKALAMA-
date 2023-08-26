@@ -1,11 +1,9 @@
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=0F334379&background=13285100&width=435&lines=Ahmet+Mert+Kalaman" alt="Typing SVG" /></a>
-
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=header&text=&fontSize=90)
 
 
 ---------
 
-# <h3 align="center">Hi There 🐥</h3>
+# <h3 align="center">Hi There 🐥 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=0F334379&background=13285100&width=435&lines=Ahmet+Mert+Kalaman" alt="Typing SVG" /></a></h3>
 
 # <h3> I am Ahmet Mert Kalaman 42 Ecole software school student. I know C Language and I am trying to make various games on Unity and Unreal Engine. You can see the projects I've done in C language on my Github. I love playing games. I hope one day I can make a great game that everyone is playing. </h3>
 
