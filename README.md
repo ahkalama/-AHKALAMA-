@@ -1,4 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1E307E85&center=true&vCenter=true&width=435&lines=Ahmet+Mert+Kalaman)](https://git.io/typing-svg)
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=header&text=&fontSize=90)
 
 
@@ -13,6 +12,7 @@
 -------
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=footer&text=&fontSize=90)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1E307E85&center=false&vCenter=false&width=435&lines=Ahmet+Mert+Kalaman)](https://git.io/typing-svg)
 
 ## 🖥️ Could below be what you are looking for?
 ****************************
