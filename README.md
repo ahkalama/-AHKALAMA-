@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=header&text=&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&section=header&text=&fontSize=90)
 
 
 ---------
@@ -11,8 +11,8 @@
 
 -------
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=footer&text=&fontSize=90)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1E307E85&center=false&vCenter=false&width=435&lines=Ahmet+Mert+Kalaman)](https://git.io/typing-svg)
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&section=footer&text=&fontSize=90)
+
 ## 🖥️ Could below be what you are looking for?
 ****************************
 | <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 30px></picture>  &nbsp; [42-EXAMRANK02 - Click There!](https://github.com/ahkalama/42-EXAMRANK02)       | 
@@ -28,4 +28,4 @@
 ![](https://raw.githubusercontent.com/VishwaGauravIn/Images/f13849bc9989d66c67085313dd606ea978eff0f8/psi-gprm.svg)
 
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=dasasd&label=Profile%20views&color=0e75b6&style=flat" alt="dasasd" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=dasasd&label=Profile%20views&color=000000&style=flat" alt="dasasd" /> </p>
