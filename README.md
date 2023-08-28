@@ -1,6 +1,6 @@
 
-![head![AHMET MERT KALAMAN (1)](https://github.com/ahkalama/ahkalama/assets/116187665/3b28aca6-37e4-4cd4-9542-cbf086af550d)
-er](https://capsule-render.vercel.app/api?type=slice&color=gradient&hei![Uploading AHMET MERT KALAMAN (1).png…]()
+![AHMET MERT KALAMAN (1)](https://github.com/ahkalama/ahkalama/assets/116187665/4719b9c4-1919-46cc-aeb8-cf997a29e4ad)
+![header](https://capsule-render.vercel.app/api?type=slice&color=gray&hei![Uploading AHMET MERT KALAMAN (1).png…]()
 ght=200&section=header&text=&fontSize=90)
 # <h3 align="center">Hi There 🐥</h3>
 
