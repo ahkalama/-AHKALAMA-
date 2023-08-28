@@ -27,5 +27,9 @@
 
 ![](https://raw.githubusercontent.com/VishwaGauravIn/Images/f13849bc9989d66c67085313dd606ea978eff0f8/psi-gprm.svg)
 
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=dasasd&label=Profile%20views&color=0e75b6&style=flat" alt="dasasd" /> </p>
+
+[![](https://visitcount.itsvg.in/api?id=ahkalama&icon=0&color=0)](https://visitcount.itsvg.in)
