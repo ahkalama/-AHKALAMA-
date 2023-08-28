@@ -25,6 +25,7 @@
 |-----------------------------------------| 
 ****************************
 
+![](https://raw.githubusercontent.com/VishwaGauravIn/Images/f13849bc9989d66c67085313dd606ea978eff0f8/psi-gprm.svg)
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dasasd&label=Profile%20views&color=0e75b6&style=flat" alt="dasasd" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=dasasd&label=Profile%20views&color=0e75b6&style=flat" alt="dasasd" /> </p>
