@@ -30,6 +30,7 @@
 <center>
 ![](https://quotes-github-readme.vercel.app/api?type=center&theme=merko)
 </center>
+<h3 align="center">(https://quotes-github-readme.vercel.app/api?type=center&theme=merko)</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=dasasd&label=Profile%20views&color=000000&style=flat" alt="dasasd" /> </p>
 
