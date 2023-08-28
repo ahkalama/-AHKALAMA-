@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&section=header&text=&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=150&section=header&text=&fontSize=90)
 
 
 ---------
@@ -11,7 +11,7 @@
 
 -------
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&section=footer&text=&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=150&section=footer&text=&fontSize=90)
 
 ## 🖥️ Could below be what you are looking for?
 ****************************
