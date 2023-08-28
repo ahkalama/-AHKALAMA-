@@ -30,6 +30,5 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=dasasd&label=Profile%20views&color=0&style=flat" alt="dasasd" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=dasasd&label=Profile%20views&color=pink&style=flat" alt="dasasd" /> </p>
 
-[![](https://visitcount.itsvg.in/api?id=ahkalama&icon=eye&color=pink)](https://visitcount.itsvg.in)
