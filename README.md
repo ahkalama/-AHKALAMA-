@@ -32,4 +32,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=dasasd&label=Profile%20views&color=0&style=flat" alt="dasasd" /> </p>
 
-[![](https://visitcount.itsvg.in/api?id=ahkalama&icon=eye&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=ahkalama&icon=eye&color=pink)](https://visitcount.itsvg.in)
