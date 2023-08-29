@@ -1,6 +1,6 @@
 
 ![AHMET MERT KALAMAN (1)](https://github.com/ahkalama/ahkalama/assets/116187665/4719b9c4-1919-46cc-aeb8-cf997a29e4ad)
-![header](https://capsule-render.vercel.app/api?type=wave&color=gray&height=200&section=header&text=&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=6F7371&height=200&section=header&text=&fontSize=90)
 # <h3 align="center">Hi There 🐥</h3>
 
 I am Ahmet Mert Kalaman 42 Ecole software school student. I know C Language and I am trying to make various games on Unity and Unreal Engine. You can see the projects I've done in C language on my Github. I love playing games. I hope one day I can make a great game that everyone is playing.
