@@ -19,7 +19,23 @@ I am Ahmet Mert Kalaman 42 Ecole software school student. I know C Language and 
 ****************************
 Follow Me 😍 🤓 👾 *🐥* [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ahmetmertk0)   *🐥* [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmet-mert-kalaman)   *🐥* [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/kiricisinamert)   *🐥* [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@AMERTK)   *🐥* [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/ahmetmertk0)  *🐥* [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/Tk4nX7Zn) *🐥* 😍 🤓 👾 Follow Me
 
-![](https://raw.githubusercontent.com/VishwaGauravIn/Images/f13849bc9989d66c67085313dd606ea978eff0f8/psi-gprm.svg)
+<br clear="both">
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ahkalama&hide_title=true&hide_rank=true&show_icons=false&include_all_commits=true&count_private=true&disable_animations=true&theme=dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahkalama&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/ahkalama/ahkalama/output/snake.svg" alt="Snake animation" />
+
+###
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=dasasd&label=Profile%20views&color=000000&style=flat" alt="dasasd" /> </p>
