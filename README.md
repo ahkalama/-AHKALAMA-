@@ -4,7 +4,7 @@
 # <h3 align="center">Hi There 🐥</h3>
 
 I am Ahmet Mert Kalaman 42 Ecole software school student. I know C Language and I am trying to make various games on Unity and Unreal Engine. You can see the projects I've done in C language
-on my Github. I love playing games. I hope one day I can make a great game that everyone is playing. attığım adımda izin var
+on my Github. You will play my game "Bird Of Fortune" now on PlayStore https://play.google.com/store/apps/details?id=com.CorpiGames.com.unity.template.mobile2D&pli=1
 
 ## 🖥️ Could below be what you are looking for?
 ****************************
