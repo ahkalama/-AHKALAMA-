@@ -2,7 +2,7 @@
 ![AHMET MERT KALAMAN (1)](https://github.com/ahkalama/ahkalama/assets/116187665/4719b9c4-1919-46cc-aeb8-cf997a29e4ad)
 ![header](https://capsule-render.vercel.app/api?type=wave&color=212020&height=200&section=header&text=&fontSize=90)
 # <h3 align="center">Hi There 🐥</h3>
-sdfdsfsd
+
 I am Ahmet Mert Kalaman 42 Ecole software school student. I know C Language and I am trying to make various games on Unity and Unreal Engine. You can see the projects I've done in C language
 on my Github. İf you want, you can play my game "Bird Of Fortune" now on PlayStore https://play.google.com/store/apps/details?id=com.CorpiGames.com.unity.template.mobile2D&pli=1
 
