@@ -5,7 +5,7 @@
 
 I am Ahmet Mert Kalaman 42 Ecole software school student. I know C Language and I am trying to make various games on Unity and Unreal Engine. You can see the projects I've done in C language
 on my Github. İf you want, you can play my game "Bird Of Fortune" now on PlayStore https://play.google.com/store/apps/details?id=com.CorpiGames.com.unity.template.mobile2D&pli=1
-
+sdfdsfsd
 Follow 😍 🤓 👾 *🐥* [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ahmetmertk0)   *🐥* [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmet-mert-kalaman)   *🐥* [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/kiricisinamert)   *🐥* [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@AMERTK)   *🐥* [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/ahmetmertk0)  *🐥* [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/Tk4nX7Zn) *🐥* 😍 🤓 👾 Follow
 
 <br clear="both">
