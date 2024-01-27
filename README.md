@@ -15,10 +15,6 @@ on my Github. İf you want, you can play my game "Bird Of Fortune" now on PlaySt
 
 ###
 
-<div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
-</div>
-
 <picture>
   <img
     alt="github contribution grid snake animation"
