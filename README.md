@@ -1,3 +1,2 @@
 
-![AHMET MERT KALAMAN (1)](![giphy](https://github.com/ahkalama/ahkalama/assets/116187665/ca094ddf-ba44-4d9f-98b0-360fcdc240b9))
-
+![giphy](https://github.com/ahkalama/ahkalama/assets/116187665/0ed74e10-5ff7-4ca1-ad94-f2dd357fcbcc)
