@@ -1,1 +1,1 @@
-![Yeni Proje](https://github.com/ahkalama/ahkalama/assets/116187665/105e289f-5529-4dfe-aefa-143e48c1f7aa)
+![Yeni Proje (1)](https://github.com/ahkalama/ahkalama/assets/116187665/29a785ed-db06-4ddd-b57d-e1715a8b1ae4)
