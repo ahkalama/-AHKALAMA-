@@ -27,7 +27,7 @@ A brief description of the project, what it aims to achieve, and the technologie
 - **[Another Achievement Title]**
   Description of the achievement, the context in which it was awarded, and its significance.
 
-## 📫 Contact
+# ![Yeni Proje (10)](https://github.com/ahkalama/ahkalama/assets/116187665/7abd3773-9a6a-42f6-afe9-8ec54b032380)
 
 Feel free to reach out to me for collaborations, questions, or just to connect!
 
