@@ -12,7 +12,7 @@ Hello! I am Ahmet Mert Kalaman, a passionate Game Developer with expertise in Un
 - **Game Design:** Level Design, Character Design, Storyboarding
 - **Other:** Problem Solving, Team Collaboration, Agile Methodologies
 
-## 🕹️ Projects
+# ![Yeni Proje (7)](https://github.com/ahkalama/ahkalama/assets/116187665/eba30dee-c954-40e7-9a61-71254d4c54bc)
 
 ### [Project Name](link-to-repo)
 A brief description of the project, what it aims to achieve, and the technologies used. Highlight any notable features or challenges overcome during development.
