@@ -3,14 +3,14 @@
 
 # ![Yeni Proje (9)](https://github.com/ahkalama/ahkalama/assets/116187665/a54c21ab-37d1-4f7e-830a-ecfbccad515b)
 
-*Hello! I am Ahmet Mert Kalaman, a passionate Game Developer with expertise in Unity and C#. With a strong background in game design and development, I strive to create immersive and engaging experiences for players. My journey in game development has equipped me with a solid understanding of game mechanics, physics, and rendering techniques, and I am constantly seeking new challenges and opportunities to further hone my skills.*
+*Hello! I am Ahmet Mert Kalaman, I am a student representative in 42 Kocaeli a passionate Game Developer with expertise in Unity and C#. With a strong background in game design and development, I strive to create immersive and engaging experiences for players. My journey in game development has equipped me with a solid understanding of game mechanics, physics, and rendering techniques, and I am constantly seeking new challenges and opportunities to further hone my skills.*
 
 ## 🔧 Skills
 - **Game Engines:** Unity
-- **Programming Languages:** C#, JavaScript
-- **Tools & Technologies:** Git, Visual Studio, Blender, Photoshop
+- **Programming Languages:** C, C#, C++, JavaScript
+- **Tools & Technologies:** Git, Visual Studio, Blender, Photoshop, Docker
 - **Game Design:** Level Design, Character Design, Storyboarding
-- **Other:** Problem Solving, Team Collaboration, Agile Methodologies
+- **Other:** Problem Solving, Team Collaboration, Student Representative
 
 # ![Yeni Proje (8)](https://github.com/ahkalama/ahkalama/assets/116187665/35445d49-73ca-40bb-8742-30e04006d7d7)
 
