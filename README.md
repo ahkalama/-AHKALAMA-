@@ -32,9 +32,8 @@ A brief description of the project, what it aims to achieve, and the technologie
 
 Feel free to reach out to me for collaborations, questions, or just to connect!
 
-- **Email:** [your-email@example.com](mailto:your-email@example.com)
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
-- **Portfolio:** [Your Portfolio Website](https://www.yourportfolio.com)
+- **Email:** luxmainim@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/ahmet-mert-kalaman-56a579266/
 
 Thank you for visiting my GitHub profile! Let's create something amazing together.
 
