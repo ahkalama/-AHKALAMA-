@@ -3,7 +3,7 @@
 
 # ![Yeni Proje (9)](https://github.com/ahkalama/ahkalama/assets/116187665/a54c21ab-37d1-4f7e-830a-ecfbccad515b)
 
-*Hello! I am Ahmet Mert Kalaman, I am a student representative in 42 Kocaeli a passionate Game Developer with expertise in Unity and C#. With a strong background in game design and development, I strive to create immersive and engaging experiences for players. My journey in game development has equipped me with a solid understanding of game mechanics, physics, and rendering techniques, and I am constantly seeking new challenges and opportunities to further hone my skills.*
+*Merhaba! Ben Ahmet Mert Kalaman, 42 Kocaeli'de öğrenci temsilcisiyim, Unity ve C# uzmanlığına sahip tutkulu bir Oyun Geliştiricisiyim. Oyun tasarımı ve geliştirmede güçlü bir geçmişe sahip olarak, oyuncular için sürükleyici ve ilgi çekici deneyimler yaratmaya çalışıyorum. Oyun geliştirme yolculuğum beni oyun mekaniği, fizik ve render teknikleri konusunda sağlam bir anlayışla donattı ve becerilerimi daha da geliştirmek için sürekli yeni zorluklar ve fırsatlar arıyorum.*
 
 ## 🔧 Skills
 - **Game Engines:** Unity
@@ -13,14 +13,13 @@
 - **Other:** Problem Solving, Team Collaboration, Student Representative
 
 # ![Yeni Proje (8)](https://github.com/ahkalama/ahkalama/assets/116187665/35445d49-73ca-40bb-8742-30e04006d7d7)
+### 🌎 [CUB3D]
 
-### [CUB3D]
-
-Cub3D, C ve Raycasting tekniği kullanılarak geliştirilmiş bir birinci şahıs perspektif oyunudur. Raycasting, bilgisayar grafiklerinde 2D bir haritadan 3D bir sahne oluşturmak için kullanılan bir yöntemdir. Cub3D'de, ekrandaki her piksel, oyuncunun bakış açısından atılan ışınlar kullanılarak hesaplanır ve derinlik ve perspektif simülasyonuna izin verir. Daha fazla bilgiyi burada bulabilirsiniz: https://lodev.org/cgtutor/raycasting.html 
+Cub3D, C ve Raycasting tekniği kullanılarak geliştirilmiş bir birinci şahıs perspektif oyunudur. Raycasting, bilgisayar grafiklerinde 2D bir haritadan 3D bir sahne oluşturmak için kullanılan bir yöntemdir. Cub3D'de, ekrandaki her piksel, oyuncunun bakış açısından atılan ışınlar kullanılarak hesaplanır ve derinlik ve perspektif simülasyonuna izin verir. Daha fazla bilgiyi burada bulabilirsiniz.
 
 Github: https://github.com/ahkalama/Cub3D_Bonus_MyRayCasting
 
-### [Whisper Of Paperworld]
+### 🌎 [Whisper Of Paperworld]
 
 *Tema: Düğüm* Gamejam için ekip olarak 48 saatte oluşturduğumuz 2d oyunumuz daha fazlası için github repoma bakabilirsiniz.
 
