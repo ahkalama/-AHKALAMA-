@@ -3,16 +3,17 @@
 
 # ![Yeni Proje (9)](https://github.com/ahkalama/ahkalama/assets/116187665/a54c21ab-37d1-4f7e-830a-ecfbccad515b)
 
-*Merhaba! Ben Ahmet Mert Kalaman, 42 Kocaeli'de öğrenci temsilcisiyim, Unity ve C# uzmanlığına sahip tutkulu bir Oyun Geliştiricisiyim. Oyun tasarımı ve geliştirmede güçlü bir geçmişe sahip olarak, oyuncular için sürükleyici ve ilgi çekici deneyimler yaratmaya çalışıyorum. Oyun geliştirme yolculuğum beni oyun mekaniği, fizik ve render teknikleri konusunda sağlam bir anlayışla donattı ve becerilerimi daha da geliştirmek için sürekli yeni zorluklar ve fırsatlar arıyorum.*
+*Merhaba! Ben Ahmet Mert Kalaman, Unity ve C# uzmanlığına sahip tutkulu bir Oyun Geliştiricisiyim. 42 de geçirdiğim sürede problem çözme becerisi, algoritma geliştirme, takım çalışmasında liderlik, gibi çeşitli yönlerde geliştim, okulda yaptığım projeler Unity' de oyun mekaniği, fizik ve render teknikleri konusunda sağlam bir anlayışla donattı, su anda 42 Kocaeli 'de ana eğitim öğrencisi ve aynı zamanda öğrenci temsilcisiyim, yaptığım projelere repo'larımdan ulasabilirsiniz.*
 
-## 🔧 Skills
-- **Game Engines:** Unity
-- **Programming Languages:** C, C#, C++, JavaScript
+## 🔧 Yetenekler
+- **Oyun Motoru:** Unity, Unreal Engine
+- **Programlama Dilleri:** C, C#, C++, JavaScript
 - **Tools & Technologies:** Git, Visual Studio, Blender, Photoshop, Docker
-- **Game Design:** Level Design, Character Design, Storyboarding
-- **Other:** Problem Solving, Team Collaboration, Student Representative
 
 # ![Yeni Proje (8)](https://github.com/ahkalama/ahkalama/assets/116187665/35445d49-73ca-40bb-8742-30e04006d7d7)
+
+*Bu kısımda benim için önemli 2 projeyi göstermek istiyorum, Cub3D raycasting kullanarak yaptığım ilk oyun motorum, whisper of paperworld ise grubumla katıldığım ilk gamejam*
+
 ### 🚀 [CUB3D]
 
 Cub3D, C ve Raycasting tekniği kullanılarak geliştirilmiş bir birinci şahıs perspektif oyunudur. Raycasting, bilgisayar grafiklerinde 2D bir haritadan 3D bir sahne oluşturmak için kullanılan bir yöntemdir. Cub3D'de, ekrandaki her piksel, oyuncunun bakış açısından atılan ışınlar kullanılarak hesaplanır ve derinlik ve perspektif simülasyonuna izin verir. Daha fazla bilgiyi burada bulabilirsiniz.
