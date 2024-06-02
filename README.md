@@ -1,7 +1,7 @@
 
 ![335828276-b794360a-e613-4b91-ad8f-fc6dc228c52e](https://github.com/ahkalama/ahkalama/assets/116187665/8600d6b7-feac-4d5c-8d0e-b1b4935b28c4)
 
-# ![Yeni Proje (9)](https://github.com/ahkalama/ahkalama/assets/116187665/a54c21ab-37d1-4f7e-830a-ecfbccad515b)
+🍕 ![Yeni Proje (9)](https://github.com/ahkalama/ahkalama/assets/116187665/a54c21ab-37d1-4f7e-830a-ecfbccad515b)
 
 *Merhaba! Ben Ahmet Mert Kalaman, Unity ve C# uzmanlığına sahip tutkulu bir Oyun Geliştiricisiyim. 42 de geçirdiğim sürede problem çözme becerisi, algoritma geliştirme, takım çalışmasında liderlik, gibi çeşitli yönlerde geliştim, okulda yaptığım projeler Unity' de oyun mekaniği, fizik ve render teknikleri konusunda sağlam bir anlayışla donattı, su anda 42 Kocaeli 'de ana eğitim öğrencisi ve aynı zamanda öğrenci temsilcisiyim, yaptığım projelere repo'larımdan ulasabilirsiniz.*
 
@@ -10,7 +10,7 @@
 - **Programlama Dilleri:** C, C#, C++, JavaScript
 - **Tools & Technologies:** Git, Visual Studio, Blender, Photoshop, Docker
 
-# ![Yeni Proje (8)](https://github.com/ahkalama/ahkalama/assets/116187665/35445d49-73ca-40bb-8742-30e04006d7d7)
+🍕 ![Yeni Proje (8)](https://github.com/ahkalama/ahkalama/assets/116187665/35445d49-73ca-40bb-8742-30e04006d7d7)
 
 *Bu kısımda benim için önemli 2 projeyi göstermek istiyorum, Cub3D raycasting kullanarak yaptığım ilk oyun motorum, whisper of paperworld ise grubumla katıldığım ilk gamejam*
 
@@ -27,14 +27,14 @@ Github: https://github.com/ahkalama/Cub3D_Bonus_MyRayCasting
 Github: https://github.com/ahkalama/Bogazici-Gamejam-2024-Whisper-Of-PaperWorld
 
 
-# ![Yeni Proje (10)](https://github.com/ahkalama/ahkalama/assets/116187665/7abd3773-9a6a-42f6-afe9-8ec54b032380)
+🍕 ![Yeni Proje (10)](https://github.com/ahkalama/ahkalama/assets/116187665/7abd3773-9a6a-42f6-afe9-8ec54b032380)
 
-Feel free to reach out to me for collaborations, questions, or just to connect!
+*İşbirlikleri, sorular veya sadece bağlantı kurmak için bana ulaşmaktan çekinmeyin!*
 
 - **Email:** luxmainim@gmail.com
 - **LinkedIn:** https://www.linkedin.com/in/ahmet-mert-kalaman-56a579266/
 
-Thank you for visiting my GitHub profile! Let's create something amazing together.
+GitHub profilimi ziyaret ettiğiniz için teşekkür ederim! Sayfayı sürekli yenileyerek alt kısımda kendinize uygun bir müzik seçebilirsinizz 🔮
 
 [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/intl-tr/track/1PHvwEhB9EUajUKTTIc5Vs)
 
