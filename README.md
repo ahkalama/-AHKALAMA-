@@ -12,7 +12,7 @@
 - **Tools & Technologies:** Git, Visual Studio, Blender, Photoshop, Docker
 
 
---
+---
 [![My Skills](https://skillicons.dev/icons?i=c,cs,cpp&perline=3)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=docker,git,github&perline=3)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=linkedin,vim,wordpress&perline=3)](https://skillicons.dev)
