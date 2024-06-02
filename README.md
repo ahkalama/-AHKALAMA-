@@ -10,6 +10,7 @@
 - **Programlama Dilleri:** C, C#, C++, JavaScript
 - **Tools & Technologies:** Git, Visual Studio, Blender, Photoshop, Docker
 
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
 
 🍕 ![Yeni Proje (8)](https://github.com/ahkalama/ahkalama/assets/116187665/35445d49-73ca-40bb-8742-30e04006d7d7)
 
