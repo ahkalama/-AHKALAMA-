@@ -14,19 +14,18 @@
 
 # ![Yeni Proje (8)](https://github.com/ahkalama/ahkalama/assets/116187665/35445d49-73ca-40bb-8742-30e04006d7d7)
 
-### [Project Name](link-to-repo)
-A brief description of the project, what it aims to achieve, and the technologies used. Highlight any notable features or challenges overcome during development.
+### [CUB3D]
 
-### [Another Project Name](link-to-repo)
-A brief description of the project, what it aims to achieve, and the technologies used. Highlight any notable features or challenges overcome during development.
+Cub3D, C ve Raycasting tekniği kullanılarak geliştirilmiş bir birinci şahıs perspektif oyunudur. Raycasting, bilgisayar grafiklerinde 2D bir haritadan 3D bir sahne oluşturmak için kullanılan bir yöntemdir. Cub3D'de, ekrandaki her piksel, oyuncunun bakış açısından atılan ışınlar kullanılarak hesaplanır ve derinlik ve perspektif simülasyonuna izin verir. Daha fazla bilgiyi burada bulabilirsiniz: https://lodev.org/cgtutor/raycasting.html 
 
-## 🚀 Achievements
+Github: https://github.com/ahkalama/Cub3D_Bonus_MyRayCasting
 
-- **[Achievement Title]**
-  Description of the achievement, the context in which it was awarded, and its significance.
+### [Whisper Of Paperworld]
 
-- **[Another Achievement Title]**
-  Description of the achievement, the context in which it was awarded, and its significance.
+*Tema: Düğüm* Gamejam için ekip olarak 48 saatte oluşturduğumuz 2d oyunumuz daha fazlası için github repoma bakabilirsiniz.
+
+Github: https://github.com/ahkalama/Bogazici-Gamejam-2024-Whisper-Of-PaperWorld
+
 
 # ![Yeni Proje (10)](https://github.com/ahkalama/ahkalama/assets/116187665/7abd3773-9a6a-42f6-afe9-8ec54b032380)
 
