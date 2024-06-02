@@ -10,7 +10,6 @@
 - **Programlama Dilleri:** C, C#, C++, JavaScript
 - **Tools & Technologies:** Git, Visual Studio, Blender, Photoshop, Docker
 
-https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png
 
 🍕 ![Yeni Proje (8)](https://github.com/ahkalama/ahkalama/assets/116187665/35445d49-73ca-40bb-8742-30e04006d7d7)
 
