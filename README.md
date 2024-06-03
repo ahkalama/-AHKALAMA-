@@ -8,7 +8,7 @@
 ## 🔧 Yetenekler
 - **Oyun Motoru:** Unity, Unreal Engine
 - **Programlama Dilleri:** C, C#, C++, JavaScript
-- **Tools & Technologies:** Git, Visual Studio, Blender, Photoshop, Docker
+- **Tools & Technologies:** Shell, Bash, Git, Visual Studio, Blender, Photoshop, Docker
 
 
 ##
