@@ -18,7 +18,7 @@
 [![My Skills](https://skillicons.dev/icons?i=sublime,unity,unreal&perline=3)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=vscode,ps,js&perline=3)](https://skillicons.dev)
 
-![hatalıolabilir](https://github.com/ahkalama/ahkalama/assets/116187665/8b2fbd6b-7852-4203-8eac-6a3cfa685a3f)
+![ahkalamds](https://github.com/ahkalama/ahkalama/assets/116187665/77673736-55be-49b7-a2aa-1c04718bf7b8)
 
 ![Yeni Proje (8)](https://github.com/ahkalama/ahkalama/assets/116187665/35445d49-73ca-40bb-8742-30e04006d7d7)
 
