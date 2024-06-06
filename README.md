@@ -18,7 +18,11 @@
 [![My Skills](https://skillicons.dev/icons?i=sublime,unity,unreal&perline=3)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=vscode,ps,js&perline=3)](https://skillicons.dev)
 
-*B̶̮͝u̵̗̇ ̴̝̀G̸̍͜i̵̲͋t̶̟̽h̶̥̎u̷̮͋b̵̧͝ ̷̗̀H̶͚̍ẹ̷͌ś̸̨a̷͈͛b̸͓̑ı̶̦̈́n̷̗̈d̵̳̿ḁ̴̀n̸̮̅ ̵͔͌ď̵͙i̸̼̇r̸̛̜e̸̦͑k̵̜̇t̴͍̆ ̵̧͗ç̸̖̐e̵̛̙k̸̫̆t̶̙̋i̴͈͝ğ̶͈̀i̷͕̅n̸͈̈́i̵̱͑z̴̲͋ ̵̨͒p̶͕̓r̶͉̄o̷͍̔j̸̏ͅe̴͕͆l̷̠̄ḛ̴̏r̸̢̀ ̴̪͆h̴̟̒ḁ̴̛ț̶̛a̸̦͆l̵͖̒ı̵̬͆ ̷̧̀ö̷̧l̴̟͝à̸̬b̴̹̽i̶̦̓l̷̟̈́i̸̟͂r̵̫̀,̴̜̃ ̷̼̾b̵͙̄i̴̙̔r̷͇̋ ̶̪͋y̸̩͌ḙ̴̀r̷̮͗ë̴̬́ ̸͕͗p̷̡̂ů̷̱ŝ̴̼h̴̖͝l̶̟̕å̵̝m̸̱̔ą̸̆d̷͉̿a̶̞̔n̸̺̈́ ̸͈̆ö̶͉͂n̸̥͋ć̸̗ẻ̴͚ ̷̨̈t̸̤̕e̴̤̿s̴̩̈́t̴̘̏ ̶̤̋e̴͂ͅṱ̷̀m̶̛͎è̴̲n̷͚͠i̷̻͗z̵̖͒ ̴̚ͅş̷̨̄i̶̙͊d̴̖̽d̸̤̎e̵̮̋t̸͓̒l̵̻̋ê̵̯ ̶͈͠ö̴̥̈́n̷̝̏ĕ̷̙r̸̠̉í̶̲l̴̢̚i̸̼͝r̵̖̔!̶͇̍*
+![Direkt-ekti-iniz-projeler-06-06-2024](https://github.com/ahkalama/ahkalama/assets/116187665/d98d4713-68ea-4f20-85ab-76cae1057c1e) 
+![Hatal-olabilir-06-06-2024](https://github.com/ahkalama/ahkalama/assets/116187665/6fe4a3ec-2a0c-494c-a013-d8f00bc2e599)
+
+![Pushlamadan-nce-test-edin-06-06-2024](https://github.com/ahkalama/ahkalama/assets/116187665/b318fab4-5f7f-436e-a5fe-1320199f538c)
+
 
 ![Yeni Proje (8)](https://github.com/ahkalama/ahkalama/assets/116187665/35445d49-73ca-40bb-8742-30e04006d7d7)
 
