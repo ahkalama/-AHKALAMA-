@@ -1,6 +1,7 @@
 
 ![github](https://github.com/ahkalama/ahkalama/assets/116187665/c2fe1031-a6ad-49d8-86e4-6a95bde85016)
 
+![438651-cyberpunk-Cyberpunk-2077-yellow-background-CD-Projekt-RED (1)](https://github.com/ahkalama/ahkalama/assets/116187665/ee65970e-0339-4d8b-88ae-d9feb015d30e)
 ![hakkımda (1)](https://github.com/ahkalama/ahkalama/assets/116187665/004703bd-7e79-42a7-9d19-691913063963)
 
 *Merhaba! Ben Ahmet Mert Kalaman, Unity ve C# uzmanlığına sahip tutkulu bir Oyun Geliştiricisiyim. 3 senede evde yaptığım projeler; Unity' de oyun mekaniği, fizik ve render teknikleri konusunda, 42 de geliştirdiğim projeler ise problem çözme becerisi, algoritma geliştirme ve takım olarak proje geliştirme gibi çeşitli yönlerde beni geliştirdi, şu anda ise 42 Kocaeli 'de ana eğitim öğrencisi ve aynı zamanda öğrenci temsilcisiyim, yaptığım projelere repo'larımdan ulaşabilirsiniz.*
