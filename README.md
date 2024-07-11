@@ -1,7 +1,7 @@
 
 ![github](https://github.com/ahkalama/ahkalama/assets/116187665/c2fe1031-a6ad-49d8-86e4-6a95bde85016)
 
-![Yeni Proje (9)](https://github.com/ahkalama/ahkalama/assets/116187665/a54c21ab-37d1-4f7e-830a-ecfbccad515b)
+![hakkımda (1)](https://github.com/ahkalama/ahkalama/assets/116187665/004703bd-7e79-42a7-9d19-691913063963)
 
 *Merhaba! Ben Ahmet Mert Kalaman, Unity ve C# uzmanlığına sahip tutkulu bir Oyun Geliştiricisiyim. 3 senede evde yaptığım projeler; Unity' de oyun mekaniği, fizik ve render teknikleri konusunda, 42 de geliştirdiğim projeler ise problem çözme becerisi, algoritma geliştirme ve takım olarak proje geliştirme gibi çeşitli yönlerde beni geliştirdi, şu anda ise 42 Kocaeli 'de ana eğitim öğrencisi ve aynı zamanda öğrenci temsilcisiyim, yaptığım projelere repo'larımdan ulaşabilirsiniz.*
 
@@ -21,7 +21,7 @@
 [![My Skills](https://skillicons.dev/icons?i=sublime,unity,unreal&perline=3)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=vscode,ps,js&perline=3)](https://skillicons.dev)
 
-![Yeni Proje (8)](https://github.com/ahkalama/ahkalama/assets/116187665/35445d49-73ca-40bb-8742-30e04006d7d7)
+![projelerim (1)](https://github.com/ahkalama/ahkalama/assets/116187665/2ed0409c-4086-487e-b8ff-6275d54cd1d6)
 
 *Bu kısımda benim için önemli 2 projeyi göstermek istiyorum, Cub3D raycasting kullanarak yaptığım ilk oyun motorum, whisper of paperworld ise grubumla katıldığım ilk gamejam*
 
@@ -37,8 +37,7 @@ Github: https://github.com/ahkalama/Cub3D_Bonus_MyRayCasting
 
 Github: https://github.com/ahkalama/Bogazici-Gamejam-2024-Whisper-Of-PaperWorld
 
-
-![Yeni Proje (10)](https://github.com/ahkalama/ahkalama/assets/116187665/7abd3773-9a6a-42f6-afe9-8ec54b032380)
+![iletisim (1)](https://github.com/ahkalama/ahkalama/assets/116187665/7bcedd47-b863-42ee-926e-61a29b3314df)
 
 *İşbirlikleri, sorular veya sadece bağlantı kurmak için bana ulaşmaktan çekinmeyin!*
 
