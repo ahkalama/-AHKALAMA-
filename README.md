@@ -1,5 +1,5 @@
 
-![335828276-b794360a-e613-4b91-ad8f-fc6dc228c52e](https://github.com/ahkalama/ahkalama/assets/116187665/8600d6b7-feac-4d5c-8d0e-b1b4935b28c4)
+![github](https://github.com/ahkalama/ahkalama/assets/116187665/c2fe1031-a6ad-49d8-86e4-6a95bde85016)
 
 ![Yeni Proje (9)](https://github.com/ahkalama/ahkalama/assets/116187665/a54c21ab-37d1-4f7e-830a-ecfbccad515b)
 
