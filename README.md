@@ -6,9 +6,8 @@
 
 *Merhaba! Ben Ahmet Mert Kalaman, Unity ve C# uzmanlığına sahip tutkulu bir Oyun Geliştiricisiyim. 3 senede evde yaptığım projeler; Unity' de oyun mekaniği, fizik ve render teknikleri konusunda, 42 de geliştirdiğim projeler ise problem çözme becerisi, algoritma geliştirme ve takım olarak proje geliştirme gibi çeşitli yönlerde beni geliştirdi, şu anda ise 42 Kocaeli 'de ana eğitim öğrencisi ve aynı zamanda öğrenci temsilcisiyim, yaptığım projelere repo'larımdan ulaşabilirsiniz.*
 
-![source](https://github.com/ahkalama/ahkalama/assets/116187665/ebf53103-cadf-444f-ae5e-a9d94d1418c9)
 
-## Yetenekler
+## ![source (1)](https://github.com/ahkalama/ahkalama/assets/116187665/338cec21-20b5-4e1d-a345-312b2f17a66d) Yetenekler
 - **Oyun Motoru:** Unity, Unreal Engine
 - **Programlama Dilleri:** C, C#, C++, JavaScript
 - **Tools & Technologies:** Shell, Bash, Git, Visual Studio, Blender, Photoshop, Docker
