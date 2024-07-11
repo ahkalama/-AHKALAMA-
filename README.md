@@ -38,7 +38,7 @@ Github: https://github.com/ahkalama/Cub3D_Bonus_MyRayCasting
 Github: https://github.com/ahkalama/Bogazici-Gamejam-2024-Whisper-Of-PaperWorld
 
 ![438651-cyberpunk-Cyberpunk-2077-yellow-background-CD-Projekt-RED (1)](https://github.com/ahkalama/ahkalama/assets/116187665/89fca7f2-554f-4d23-a397-93c9c26f3ab0)
-![iletisim (1) copy](https://github.com/ahkalama/ahkalama/assets/116187665/a51c7db8-e1ad-4009-832e-8b2e9a31d08e)
+![iletisim (1)](https://github.com/ahkalama/ahkalama/assets/116187665/6bdfd093-f984-46a3-ab9d-493397b8891b)
 
 ![1980131_b8a6b (1)](https://github.com/ahkalama/ahkalama/assets/116187665/2f56aafc-c40f-4259-89ad-398bbc7d0c64) 
 **Email:** luxmainim@gmail.com
