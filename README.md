@@ -40,7 +40,9 @@ Github: https://github.com/ahkalama/Bogazici-Gamejam-2024-Whisper-Of-PaperWorld
 ![438651-cyberpunk-Cyberpunk-2077-yellow-background-CD-Projekt-RED (1)](https://github.com/ahkalama/ahkalama/assets/116187665/89fca7f2-554f-4d23-a397-93c9c26f3ab0)
 ![iletisim (1)](https://github.com/ahkalama/ahkalama/assets/116187665/7bcedd47-b863-42ee-926e-61a29b3314df)
 
-![1980131_b8a6b (1)](https://github.com/ahkalama/ahkalama/assets/116187665/2f56aafc-c40f-4259-89ad-398bbc7d0c64) - **Email:** luxmainim@gmail.com
-![1980131_b8a6b (1)](https://github.com/ahkalama/ahkalama/assets/116187665/2f56aafc-c40f-4259-89ad-398bbc7d0c64) - **LinkedIn:** https://www.linkedin.com/in/ahmet-mert-kalaman-56a579266/
+![1980131_b8a6b (1)](https://github.com/ahkalama/ahkalama/assets/116187665/2f56aafc-c40f-4259-89ad-398bbc7d0c64) 
+**Email:** luxmainim@gmail.com
+![1980131_b8a6b (1)](https://github.com/ahkalama/ahkalama/assets/116187665/2f56aafc-c40f-4259-89ad-398bbc7d0c64) 
+**LinkedIn:** https://www.linkedin.com/in/ahmet-mert-kalaman-56a579266/
 
 
