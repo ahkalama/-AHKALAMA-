@@ -1,5 +1,4 @@
-
-![github](https://github.com/ahkalama/ahkalama/assets/116187665/c2fe1031-a6ad-49d8-86e4-6a95bde85016)
+![cyberpunk-2077-johnny-silverhand-character-v-xbox-series-x-2560x1080-1617 (1)](https://github.com/user-attachments/assets/b7a59d4e-44bc-4fcf-bcc8-8eae78607a9f)
 
 ![438651-cyberpunk-Cyberpunk-2077-yellow-background-CD-Projekt-RED (1)](https://github.com/ahkalama/ahkalama/assets/116187665/ee65970e-0339-4d8b-88ae-d9feb015d30e)
 ![hakkımda (1)](https://github.com/ahkalama/ahkalama/assets/116187665/004703bd-7e79-42a7-9d19-691913063963)
