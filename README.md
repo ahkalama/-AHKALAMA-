@@ -7,7 +7,7 @@
 *Merhaba! Ben Ahmet Mert Kalaman, Unity ve C# uzmanlığına sahip tutkulu bir Oyun Geliştiricisiyim. 3 senede evde yaptığım projeler; Unity' de oyun mekaniği, fizik ve render teknikleri konusunda, 42 de geliştirdiğim projeler ise problem çözme becerisi, algoritma geliştirme ve takım olarak proje geliştirme gibi çeşitli yönlerde beni geliştirdi, şu anda ise 42 Kocaeli 'de ana eğitim öğrencisi ve aynı zamanda öğrenci temsilcisiyim, yaptığım projelere repo'larımdan ulaşabilirsiniz.*
 
 
-## ![source (1)](https://github.com/ahkalama/ahkalama/assets/116187665/338cec21-20b5-4e1d-a345-312b2f17a66d) Yetenekler
+## ![pngkey com-blue-butterfly-png-15](https://github.com/user-attachments/assets/ea518233-6f8a-4ea1-a88d-c6e5cc316dc2) Yetenekler
 - **Oyun Motoru:** Unity, Unreal Engine
 - **Programlama Dilleri:** C, C#, C++, JavaScript
 - **Tools & Technologies:** Shell, Bash, Git, Visual Studio, Blender, Photoshop, Docker
@@ -25,11 +25,11 @@
 
 *Bu kısımda benim için önemli 2 projeyi göstermek istiyorum, Cub3D raycasting kullanarak yaptığım ilk oyun motorum, whisper of paperworld ise grubumla katıldığım ilk gamejam*
 
-### ![source (1)](https://github.com/ahkalama/ahkalama/assets/116187665/338cec21-20b5-4e1d-a345-312b2f17a66d) [CUB3D]
+### ![pngkey com-blue-butterfly-png-15](https://github.com/user-attachments/assets/ea518233-6f8a-4ea1-a88d-c6e5cc316dc2) [CUB3D]
 
 Github: https://github.com/ahkalama/Cub3D_Bonus_MyRayCasting
 
-### ![source (1)](https://github.com/ahkalama/ahkalama/assets/116187665/338cec21-20b5-4e1d-a345-312b2f17a66d) [Whisper Of Paperworld]
+### ![pngkey com-blue-butterfly-png-15](https://github.com/user-attachments/assets/ea518233-6f8a-4ea1-a88d-c6e5cc316dc2)[Whisper Of Paperworld]
 
 Github: https://github.com/ahkalama/Bogazici-Gamejam-2024-Whisper-Of-PaperWorld
 
