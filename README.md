@@ -1,7 +1,6 @@
 
 ![Yeni Proje](https://github.com/user-attachments/assets/abf75f93-c0e0-4a2f-831f-5aed6221b862)
 
-![CelJaded-Life-is-Strange-2-Banner (1)](https://github.com/user-attachments/assets/a077fd47-2c48-4d7a-99ad-70995c0cc8ea)
 ![Yeni Proje](https://github.com/user-attachments/assets/6cdfe43c-cbe3-4707-be45-ac5116a5d462)
 
 *Merhaba! Ben Ahmet Mert Kalaman, Unity ve C# uzmanlığına sahip tutkulu bir Oyun Geliştiricisiyim. 3 senede evde yaptığım projeler; Unity' de oyun mekaniği, fizik ve render teknikleri konusunda, 42 de geliştirdiğim projeler ise problem çözme becerisi, algoritma geliştirme ve takım olarak proje geliştirme gibi çeşitli yönlerde beni geliştirdi, şu anda ise 42 Kocaeli 'de ana eğitim öğrencisi ve aynı zamanda öğrenci temsilcisiyim, yaptığım projelere repo'larımdan ulaşabilirsiniz.*
