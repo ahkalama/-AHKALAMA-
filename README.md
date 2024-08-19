@@ -9,7 +9,7 @@
 ## ![pngkey com-blue-butterfly-png-15](https://github.com/user-attachments/assets/ea518233-6f8a-4ea1-a88d-c6e5cc316dc2) Yetenekler
 - **Oyun Motoru:** Unity, Unreal Engine
 - **Programlama Dilleri:** C, C#, C++, JavaScript
-- **Tools & Technologies:** Shell, Bash, Git, Visual Studio, Blender, Photoshop, Docker
+- **Tools & Technologies:** Shell, Bash, Git, Plastic SCM, Visual Studio, Blender, Photoshop, Docker
 
 
 ##
