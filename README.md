@@ -1,5 +1,6 @@
 
-![Yeni Proje (11)](https://github.com/user-attachments/assets/380c4ebd-9323-4f1f-b50a-711721177e4a)
+![Yeni Proje](https://github.com/user-attachments/assets/abf75f93-c0e0-4a2f-831f-5aed6221b862)
+
 
 ![438651-cyberpunk-Cyberpunk-2077-yellow-background-CD-Projekt-RED (1)](https://github.com/ahkalama/ahkalama/assets/116187665/ee65970e-0339-4d8b-88ae-d9feb015d30e)
 ![hakkımda (1)](https://github.com/ahkalama/ahkalama/assets/116187665/004703bd-7e79-42a7-9d19-691913063963)
