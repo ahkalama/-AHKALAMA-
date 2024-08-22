@@ -34,6 +34,7 @@ Github: https://github.com/ahkalama/Bogazici-Gamejam-2024-Whisper-Of-PaperWorld
 ![iletisim](https://github.com/user-attachments/assets/c526dab2-714d-4a6c-919a-fffa8ce3e170)
 
 **Email:** luxmainim@gmail.com
+
 **LinkedIn:** https://www.linkedin.com/in/ahmet-mert-kalaman-56a579266/
 
 
