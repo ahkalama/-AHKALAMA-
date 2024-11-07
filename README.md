@@ -21,7 +21,7 @@
 
 ![projelerim](https://github.com/user-attachments/assets/b809207f-3b8a-4da7-ba09-a67e734e5e8c)
 
-*Bu kısımda benim için önemli 2 projeyi göstermek istiyorum, Cub3D raycasting kullanarak yaptığım ilk oyun motorum, whisper of paperworld ise grubumla katıldığım ilk gamejam*
+*Bütün projelerime repolarımdan ayrıntılarıyla beraber ulaşabilirsiniz, Bu kısımda benim için önemli 2 projeyi göstermek istiyorum, Cub3D raycasting kullanarak yaptığım ilk oyun motorum, whisper of paperworld ise grubumla katıldığım ilk gamejam*
 
 ### Cub 3D
 
